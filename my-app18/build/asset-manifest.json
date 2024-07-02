@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ej2-react-demo2/static/css/main.f5baab91.css",
+    "main.js": "/ej2-react-demo2/static/js/main.8142ed14.js",
+    "index.html": "/ej2-react-demo2/index.html",
+    "main.f5baab91.css.map": "/ej2-react-demo2/static/css/main.f5baab91.css.map",
+    "main.8142ed14.js.map": "/ej2-react-demo2/static/js/main.8142ed14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5baab91.css",
+    "static/js/main.8142ed14.js"
+  ]
+}
